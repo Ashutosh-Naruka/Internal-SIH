@@ -8,7 +8,7 @@
 
 This project leverages the following technologies:
 
-- **[Invoicify](https://invoiicify.netlify.app/):** Java Script , CSS , React Native , HTML , NobJs 
+- **[Invoicify](https://invoiicify.netlify.app/):** Java Script , CSS , React Native , HTML , NodeJs 
 
 ## Key Features
 

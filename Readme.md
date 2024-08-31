@@ -15,7 +15,7 @@ This README provides an overview of the project, including team details, relevan
 - **MEMBER_3** - 2024UCS1528 - [@Aryanbharadwaj15](https://github.com/Aryanbharadwaj15)
 - **MEMBER_4** - 2024UCS1524 - [@Raokrish48](https://github.com/Raokrish48)
 - **MEMBER_5** - 2024UCS1522 - [@Ashutosh-Naruka](https://github.com/Ashutosh-Naruka)
-- **MEMBER_6** - 2024UCA1851 - (https://github.com/USERNAME)
+- **MEMBER_6** - 2024UCA1851 - [@pra-chi05](https://github.com/pra-chi05)
 
 ## Project Links
 

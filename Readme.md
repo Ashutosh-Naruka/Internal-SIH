@@ -10,12 +10,12 @@ This README provides an overview of the project, including team details, relevan
 
 **Team Members:**
 
-- **MEMBER_1** - ROLL_NUMBER - [@BhumitM](https://github.com/USERNAME)
-- **MEMBER_2** - ROLL_NUMBER - [@Honest-Observer](https://github.com/Honest-Observer)
-- **MEMBER_3** - ROLL_NUMBER - [@Aryanbhardwaj15](https://github.com/Aryannhardwaj15)
-- **MEMBER_4** - ROLL_NUMBER - [@Raokrish48](https://github.com/Raokrish48)
-- **MEMBER_5** - ROLL_NUMBER - [@Ashutosh-Naruka](https://github.com/Ashutosh_Naruka)
-- **MEMBER_6** - ROLL_NUMBER - (https://github.com/USERNAME)
+- **MEMBER_1** - 2024UCS1540 - [@BhumitM](https://github.com/USERNAME)
+- **MEMBER_2** - 2024UCS1619 - [@Honest-Observer](https://github.com/Honest-Observer)
+- **MEMBER_3** - 2024UCS1528 - [@Aryanbhardwaj15](https://github.com/Aryannhardwaj15)
+- **MEMBER_4** - 2024UCS1524 - [@Raokrish48](https://github.com/Raokrish48)
+- **MEMBER_5** - 2024UCS1522 - [@Ashutosh-Naruka](https://github.com/Ashutosh_Naruka)
+- **MEMBER_6** - 2024UCA1851 - (https://github.com/USERNAME)
 
 ## Project Links
 
@@ -23,5 +23,5 @@ This README provides an overview of the project, including team details, relevan
 - **Final SIH Presentation:** [Final SIH Presentation](https://github.com/Ashutosh-Naruka/Internal-SIH/blob/a6e8d474ddd82d85637abd6e4bbb3d3c91cc62a9/files/SIH_PPT_Code%20Hunterz.pdf)
 - **Video Demonstration:** [Watch Video](UNLISTED YOUTUBE LINK)
 - **Live Deployment:** [View Deployment](https://invoiicify.netlify.app/)
-- **Source Code:** [GitHub Repository](GITHUB LINK TO THE REPO)
-- **Additional Resources:** [Other Relevant Links](ANY OTHER RELEVANT LINKS)
+- **Source Code:** [GitHub Repository](https://github.com/Ashutosh-Naruka/Internal-SIH)
+- **Additional Resources:** [Other Relevant Links](https://github.com/Ashutosh-Naruka/Internal-SIH)

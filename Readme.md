@@ -19,8 +19,8 @@ This README provides an overview of the project, including team details, relevan
 
 ## Project Links
 
-- **Internal Presentation:** [Internal SIH](files/Internal_PPT_Code Hunterz.pdf)
-- **Final SIH Presentation:** [Final SIH Presentation](URL TO PPT UPLOADED TO GITHUB)
+- **Internal Presentation:** [Internal SIH](https://github.com/Ashutosh-Naruka/Internal-SIH/blob/58c212bbf19ebdc5257a81451b51fe5d0b150f2b/files/Internal_PPT_Code%20Hunterz.pdf)
+- **Final SIH Presentation:** [Final SIH Presentation]()
 - **Video Demonstration:** [Watch Video](UNLISTED YOUTUBE LINK)
 - **Live Deployment:** [View Deployment](DEPLOYED LINK IF ANY)
 - **Source Code:** [GitHub Repository](GITHUB LINK TO THE REPO)

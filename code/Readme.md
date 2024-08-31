@@ -1,20 +1,20 @@
 ## Tasks Accomplished
 
-- [x] **Task 1:** Description of Task 1 (if needed)
-- [x] **Task 2:** Description of Task 2 (if needed)
-- [x] **Task 3:** Description of Task 3 (if needed)
+- [x] **Task 1:** First making raw code using HTML and CSS (COMPLETED)
+- [x] **Task 2:** Then using JavaScript for making it functionable and feasible (completed)
+- [x] **Task 3:** Then start making buttons functionable and redirections stuff (completed)
 
 ## Technology Stack
 
 This project leverages the following technologies:
 
-- **[NAME](WEBSITE):** One Line on why you chose this tech and what it is used for.
+- **[Invoicify](https://invoiicify.netlify.app/):** Java Script , CSS , React Native , HTML , NobJs 
 
 ## Key Features
 
-- **Feature 1:** One Line description of Feature 1.
-- **Feature 2:** One Line description of Feature 2.
-- **Feature 3:** One Line description of Feature 3.
+- **Feature 1:** Efficient bill management
+- **Feature 2:** Track your invoices in real time
+- **Feature 3:** User friendly interface
 
 ## Local Setup Instructions (Write for both windows and macos)
 
@@ -22,8 +22,7 @@ Follow these steps to run the project locally
 
 1. **Clone the Repository**
    ```bash
-   git clone GITHUB_LINK_TO_THE_REPO
-   cd REPO_DIRECTORY
+   git https://github.com/Ashutosh-Naruka/Internal-SIH
    ```
 
 MORE STEPS HERE

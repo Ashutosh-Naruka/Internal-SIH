@@ -1,8 +1,8 @@
 ## Tasks Accomplished
 
 - [x] **Task 1:** First making raw code using HTML and CSS (COMPLETED)
-- [x] **Task 2:** Then using JavaScript for making it functionable and feasible (completed)
-- [x] **Task 3:** Then start making buttons functionable and redirections stuff (completed)
+- [x] **Task 2:** Then using JavaScript for making it functionable and feasible (COMPLETED)
+- [x] **Task 3:** Then start making buttons functionable and redirections stuff (COMPLETED)
 
 ## Technology Stack
 

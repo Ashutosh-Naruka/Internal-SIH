@@ -1,4 +1,4 @@
-# Porting an Invoice and Billing Platform for Government Universities from Ionic to React Native (File Name from the drive folder)
+# Porting an Invoice and Billing Platform for Government Universities from Ionic to React Native 
 
 This README provides an overview of the project, including team details, relevant links, tasks completed, tech stack, key features, and steps to run the project locally.
 

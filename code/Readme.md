@@ -22,7 +22,18 @@ Follow these steps to run the project locally
 
 1. **Clone the Repository**
    ```bash
-   git https://github.com/Ashutosh-Naruka/Internal-SIH
+   git clone https://github.com/Ashutosh-Naruka/Internal-SIH.git
+   cd Internal-SIH
+   - On MacOS, they can use:
+   open index.html
+   
+   - On Windows, they can use:
+   bash
+   start index.html
+   
+   - On Linux, they might use:
+   bash
+   xdg-open index.html
    ```
 
-MORE STEPS HERE
+

@@ -10,11 +10,11 @@ This README provides an overview of the project, including team details, relevan
 
 **Team Members:**
 
-- **MEMBER_1** - 2024UCS1540 - [@BhumitM](https://github.com/USERNAME)
-- **MEMBER_2** - 2024UCS1619 - [@Honest-Observer](https://github.com/Honest-Observer)
-- **MEMBER_3** - 2024UCS1528 - [@Aryanbhardwaj15](https://github.com/Aryannhardwaj15)
-- **MEMBER_4** - 2024UCS1524 - [@Raokrish48](https://github.com/Raokrish48)
-- **MEMBER_5** - 2024UCS1522 - [@Ashutosh-Naruka](https://github.com/Ashutosh_Naruka)
+- **MEMBER_1** - 2024UCS1540 - [Bhumit_Malhan](https://github.com/USERNAME)
+- **MEMBER_2** - 2024UCS1619 - [Honest-Observer](https://github.com/Honest-Observer)
+- **MEMBER_3** - 2024UCS1528 - [Aryanbhardwaj15](https://github.com/Aryannhardwaj15)
+- **MEMBER_4** - 2024UCS1524 - [Raokrish48](https://github.com/Raokrish48)
+- **MEMBER_5** - 2024UCS1522 - [Ashutosh-Naruka](https://github.com/Ashutosh_Naruka)
 - **MEMBER_6** - 2024UCA1851 - (https://github.com/USERNAME)
 
 ## Project Links
